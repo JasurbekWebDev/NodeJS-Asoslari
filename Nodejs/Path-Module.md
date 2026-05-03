@@ -1,4 +1,6 @@
-"" javascript
+// jvascript codeni yozish usuli
+
+``javascript
 /*
 NodeJS Path Module va Module Methods: - Qiladigan ishlar:
 1. Path modulini o'rnatish va import qilish
@@ -114,4 +116,5 @@ console.log('Yo\'l ajratuvchisi:', path.sep); // Output: / (Linux/Mac) or \ (Win
 console.log('Muqobil yo\'l ajratuvchisi:', path.delimiter); // Output: : (Linux/Mac) or ; (Windows)
 
 
-""
+
+``
