@@ -1,4 +1,3 @@
-// jvascript codeni yozish usuli
 
 ```javascript
 /*
